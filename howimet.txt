@@ -1,0 +1,430 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x1-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=5bf8d19a7a3ce809
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x2-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=c8b2da2584db6498
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x3-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=d88d7d657eab2291
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x4-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=3059a53550c6e3a5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x5-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=d134899666792a09
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x6-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=1a72113faa32b911
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x7-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=760923025f2ce00f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x8-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=9f9efac7ce2a5eb4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x9-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=2d95ee445d3610f7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x10-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=9233b1ff6c57ac6a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x11-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=27293b4bb1f332d5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x12-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=7c4e0309223d2996
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x13-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=4add9dfbfae92f94
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x14-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=3e87077cf18f276d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x15-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=940fed2f176531d9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x16-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=b21d90a98446277e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x17-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=affa4982b9b0f125
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x18-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=4fec0fa095e0f831
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x19-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=890cf1ee02d12031
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x20-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=35ef57e705d6bba
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x21-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=813476a4de699bd0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zgQwx6U.jpg" group-title="How I Met Your Mother DUB",1x22-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=b332d7bdb2741cfa
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x1-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=c0055ed18229b566
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x2-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=f1e8a9c8e9eaee0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x3-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=fbaf7375e1a2418d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x4-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=d65f4bae863372e1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x5-DUB Como Eu Conheci a Sua Mãe
+vhttps://www.blogger.com/video-play.mp4?contentId=3a91dca61c77f432
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x6-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=39ef0c846d50def2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x7-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=739a0716ab938910
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x8-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=dba0f0dc0c0dc7e6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x9-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=f0bed431d6ca7afd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x10-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=d35e4f83541f0b88
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x11-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=971f53b81d21e48b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x12-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=4016083e0e80cb60
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x13-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=e14c77e78e6dae13
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x14-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=58f02d0451eff37c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x15-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=ee6ef612743cce61
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x16-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=c07f840470bc9f65
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x17-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=653153b2ed91b875
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x18-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=5796763e97dcb93c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x19-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=463e0fb221b89447
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x20-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=6000d7c13cccd3ea
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x21-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=c19fff236c889f41
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BWAMyO1.jpg" group-title="How I Met Your Mother DUB",2x22-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=9225ebc3a5c79533
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x1-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=9d9b04cdeb7ef05c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x2-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=62287aeb28bfe8f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x3-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=a7ec7b86df2544b7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x4-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=51a631e5d1f37308
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x5-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=cf952fbedbe3b86f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x6-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=b4dbe40f64041294
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x7-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=e7e3fd64fefc529e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x8-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=77bdbbd3217ccf1c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x9-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=f3d15c0fed4fdcdc
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x10-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=5f3c41ce5ad3e9b5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x11-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=c618a801bb71b241
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x12-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=cb9c7e87a8be2fba
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x13-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=e879de73da7e346e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x14-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=205b640ad903a657
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x15-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=b013081740c06db
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x16-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=838f37e1040f7253
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x17-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=be92f764cb99c3e2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x18-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=1ba0d20366619013
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x19-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=d7fb897a7e1c9e2c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YYzWrZQ.jpg" group-title="How I Met Your Mother DUB",3x20-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=5dc61ac737384d8c
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x1-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=1f6e41f799b96ef3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x2-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=d9825c788c9e26f8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x3-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=2aa23b529528759b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x4-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=145c0323057bed56
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x5-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=5f535613c8bf4439
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x6-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=4ff3806db5ef3800
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x7-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=cd5368a236396410
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x8-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=c3e44a0878c100b8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x9-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=f640a359d7185f70
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x10-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=98d51fbf73dc5981
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x11-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=fd9953a0e49fcf52
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x12-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=205e40681468b434
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x13-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=f7fb85df52dedcba
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x14-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=f7fb85df52dedcba
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x15-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=3675e8c1831307e8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x16-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=2b4b02106a18e41a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x17-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=ea92f49061133444
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x18-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=8f939d4846a410ac
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x19-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=a87ea600425d5940
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x20-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=e15b89dddf60831e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x21-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=df207bd6d8f57965
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x22-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=a6f2701d04088b19
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x23-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=cb028e4bb51c350b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nh2Mzmq.jpg" group-title="How I Met Your Mother DUB",4x24-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=b7a581f77797d6d1
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x1-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=689fa4a58d7e6176
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x2-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=356cf236c84d40ef
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x3-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=786da019c4faeb8e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x4-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=8bafbe897e5f2630
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x5-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=6998fa6e7dac9881
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x6-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=98f10643afac60f1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x7-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=4f65d2ed64df4e5a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x8-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=945c981e862b7d9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x9-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=930a438114c42210
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x10-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=8c5b428339010153
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x11-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=697e97cc59cee3b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x12-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=1a53a405b4b3e219
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x13-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=807fca21ebee450d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x14-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=4235d21858f7a2a1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x15-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=950aa865d05e1e7c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x16-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=5b09810da69b0da1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x17-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=b264009e6f347790
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x18-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=3654931fdede74c6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x19-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=2ab1814b5b19720b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x20-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=ad1c807c2126ff2c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x21-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=8bfee4d089ce8799
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x22-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=e35952c6dc2d40cd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x23-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=f459d2d010e7df64
+#EXTINF:-1 tvg-logo="http://i.imgur.com/frFrb3e.png" group-title="How I Met Your Mother DUB",5x24-DUB Como Eu Conheci a Sua Mãe
+https://www.blogger.com/video-play.mp4?contentId=5ac74ad3ecb3d3bc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x1-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=4e99df400bdb2793&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x2-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=b6811cc4ffe5f2e4&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x3-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=ef18349cdacc046f&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x4-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=6cb8abf5a7cfe752&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x5-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=bf2d8c1df7c4b7ca&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x6-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=5a3fdd86e68d6bc7&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x7-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c7e483301d4ec499&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x8-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=d79222e486d3272c&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x9-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=3399646b083218b7&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x10-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=67dd59c805739f28&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x11-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=69fb48bd8c597111&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x12-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=4e453affff3c6e01&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x13-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=95926e3b0534bb02&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x14-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=da5bc55f17facc21&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x15-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=2f59d79e05dab80b&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x16-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=7211249dcd3dc8d5&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x17-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=a48fc9e1d5169da3&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x18-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=a9cb33760b8c8ec2&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x19-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=9b811574ad314604&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x20-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c1fd91cade06112&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x21-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=873fc9d46a17e9d6&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x22-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=f1cbc4a071bde851&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x23-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=a6039fbc82ff9a&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MDTD6Jf.jpg" group-title="How I Met Your Mother DUB",6x24-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=e7431b4c73ca4aea&TJKKSERIES
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x1-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=5ed8d23203b84de8&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x2-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c8fc82001bc6cb07&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x3-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=99b52e87d7bd25a1&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x4-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=ef8e1906a0a20576&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x5-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=7e400a7a98004d6c&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x6-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=1baffff3972f7d4a&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x7-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=e25676e6783e53e9&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x8-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=88e55708043fdd86&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x9-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=82a560b88ff5236e&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x10-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=1e9b3f1183cc7dd9&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x11-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=4bf965ee959ba96c&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x12-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=5d18db0f4855c531&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x13-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=2db121f7cfa61e85&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x14-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=bb97a71930a7385e&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x15-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=193402a9452a2549&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x16-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=e8ee83dac04a6051&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x17-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=af14a834ac556861&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x18-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=eae1b94b68e7f833&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x19-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=92f110703422c681&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x20-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=a986f18480823174&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x21-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=7e18be63c95be655&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x22-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=191058ea15785067&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x23-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=2b99288d9cbb7666&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/10BwAzN.jpg" group-title="How I Met Your Mother DUB",7x24-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=435be642ea9e7aea&TJKKSERIES
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x1-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c748a1b388f45dea&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x2-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=b0768d16f3f83baf&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x3-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=5c61c55f5788db95&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x4-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=68df7ff0f553529f&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x5-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=5e4923ca6c94e5f4&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x6-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=2b76dc5ea5380cfd&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x7-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=e2f8cc7b7a7e6862&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x8-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c8a97592f38ca3d0&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x9-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c44ec75019f73b83&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x10-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=3e6cd9b161af03e2&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x11-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=1ca06947ee951d06&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x12-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=5f3a560b3175aff3&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x13-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=8fe603274a950005&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x14-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c5a17fca88fa7599&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x15-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=97606209c48b2670&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x16-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=a3fe637ffd4311a9&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x17-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=4208d8871dea8a00&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x18-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=5018011a29016aa4&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x19-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=7e8f9a947e8aa9e7&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x20-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=9456d80e8b3dc64f&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x21-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=8f1efa761f7cae46&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x22-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=c8d9cb4598a4bdc7&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x23-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=bca5101a7702a7ad&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zF8I7MV.jpg" group-title="How I Met Your Mother DUB",8x24-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=83e1d4b7cf0a1376&TJKKSERIES
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x1-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=d1670ae3718d78e8&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x2-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=4575643cd461b461&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x3-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=ad4d53df93fda5f7&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x4-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=de78c5c69227b3d&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x5-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=a2bce5be17e55078&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x6-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=9ecf7d70f5b3cc4f&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x7-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=692601c5af814a99&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x8-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=9ae7b3637a435b2a&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x9-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=3b2936b64ad79708&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x10-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=28931239f3610c8c&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x11-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=bfa468625233b79b&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x12-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=bfa468625233b79b&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x13-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=1e01d255fe3faf38&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x14-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=78b19c0616d3b3b8&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x15-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=bf050ec5dd00db6a&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x16-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=371220164313b190&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x17-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=31e8b012b881727d&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x18-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=e6856d395844e09b&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x19-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=8b213f90fe3d2d6c&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x20-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=466f4d55af47b7b7&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x21-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=57aad03042df60ac&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x22-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=7a07681b1697b9ec&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x23-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=860c4fd3052925ec&TJKKSERIES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Iwwx9ir.jpg" group-title="How I Met Your Mother DUB",9x24-DUB Como Eu Conheci a Sua Mãe
+http://www.blogger.com/video-play.mp4?contentId=4d359209acac6df4&TJKKSERIES
